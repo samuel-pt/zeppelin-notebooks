@@ -70,7 +70,7 @@
     },
     {
       "text": "print",
-      "dateUpdated": "Jan 11, 2016 3:16:48 PM",
+      "dateUpdated": "Jan 11, 2016 3:17:17 PM",
       "config": {
         "colWidth": 12.0,
         "graph": {
@@ -92,6 +92,18 @@
       "jobName": "paragraph_1452505432504_2052797742",
       "id": "20160111-151352_1368829189",
       "dateCreated": "Jan 11, 2016 3:13:52 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1452505637689_1428810002",
+      "id": "20160111-151717_1719390963",
+      "dateCreated": "Jan 11, 2016 3:17:17 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
