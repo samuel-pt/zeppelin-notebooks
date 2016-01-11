@@ -35,7 +35,22 @@
       "progressUpdateIntervalMs": 500
     },
     {
-      "config": {},
+      "text": "// Add another print\n\nprint (\"This should create new version...\")",
+      "dateUpdated": "Jan 11, 2016 3:13:52 PM",
+      "config": {
+        "colWidth": 12.0,
+        "graph": {
+          "mode": "table",
+          "height": 300.0,
+          "optionOpen": false,
+          "keys": [],
+          "values": [],
+          "groups": [],
+          "scatter": {}
+        },
+        "enabled": true,
+        "editorMode": "ace/mode/scala"
+      },
       "settings": {
         "params": {},
         "forms": {}
@@ -43,6 +58,18 @@
       "jobName": "paragraph_1452504885280_803123447",
       "id": "20160111-150445_129823067",
       "dateCreated": "Jan 11, 2016 3:04:45 PM",
+      "status": "READY",
+      "progressUpdateIntervalMs": 500
+    },
+    {
+      "config": {},
+      "settings": {
+        "params": {},
+        "forms": {}
+      },
+      "jobName": "paragraph_1452505432504_2052797742",
+      "id": "20160111-151352_1368829189",
+      "dateCreated": "Jan 11, 2016 3:13:52 PM",
       "status": "READY",
       "progressUpdateIntervalMs": 500
     }
