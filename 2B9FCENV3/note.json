@@ -23,8 +23,15 @@
       },
       "jobName": "paragraph_1452504871324_-533524880",
       "id": "20160111-150431_513085541",
+      "result": {
+        "code": "SUCCESS",
+        "type": "TEXT",
+        "msg": "Hi..."
+      },
       "dateCreated": "Jan 11, 2016 3:04:31 PM",
-      "status": "READY",
+      "dateStarted": "Jan 11, 2016 3:04:45 PM",
+      "dateFinished": "Jan 11, 2016 3:05:36 PM",
+      "status": "FINISHED",
       "progressUpdateIntervalMs": 500
     },
     {
