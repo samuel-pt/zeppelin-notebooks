@@ -91,8 +91,15 @@
       },
       "jobName": "paragraph_1452505432504_2052797742",
       "id": "20160111-151352_1368829189",
+      "result": {
+        "code": "ERROR",
+        "type": "TEXT",
+        "msg": "\u003cconsole\u003e:22: error: missing arguments for method print in object Predef;\nfollow this method with `_\u0027 if you want to treat it as a partially applied function\n              print\n              ^\n"
+      },
       "dateCreated": "Jan 11, 2016 3:13:52 PM",
-      "status": "READY",
+      "dateStarted": "Jan 11, 2016 3:17:17 PM",
+      "dateFinished": "Jan 11, 2016 3:17:17 PM",
+      "status": "ERROR",
       "progressUpdateIntervalMs": 500
     },
     {
